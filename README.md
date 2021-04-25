@@ -1,2 +1,2 @@
-# python_data_analysis
-Python data analysis and visualization
+# Python Data Analysis
+Using Python to perform cleaning, analysis and visualization of data
